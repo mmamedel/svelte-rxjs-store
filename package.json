@@ -1,0 +1,21 @@
+{
+  "name": "svelte-rxjs-store",
+  "version": "0.0.1",
+  "description": "Advanced Svelte Store using RxJS",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamedel/svelte-rxjs-store.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamedel/svelte-rxjs-store/issues"
+  },
+  "homepage": "https://github.com/mmamedel/svelte-rxjs-store#readme",
+  "dependencies": {
+    "rxjs": "7.x"
+  }
+}
